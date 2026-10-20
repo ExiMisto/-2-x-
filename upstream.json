@@ -1,0 +1,7 @@
+{
+  "repository": "https://github.com/Hatsunetrump/TerrariaICEY",
+  "commit": "70bc8822f4bd1fec54e007bc9a156c1c39d71ead",
+  "sourceDirectory": "source",
+  "vendored": false,
+  "note": "Build against a separate local checkout. Upstream source, binaries and extracted game assets are not included. See notices and THIRD-PARTY.md."
+}

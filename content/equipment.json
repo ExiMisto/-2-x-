@@ -1,0 +1,1660 @@
+[
+  {
+    "key": "EnchantedBlade",
+    "name": "附魔剑",
+    "hero": "Warrior",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "罕见",
+    "items": [
+      989
+    ],
+    "nativeSymbols": "EnchantedSword"
+  },
+  {
+    "key": "EnchantedBoomerang",
+    "name": "附魔回旋镖",
+    "hero": "Warrior",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      55
+    ],
+    "nativeSymbols": "EnchantedBoomerang"
+  },
+  {
+    "key": "IceBladeGear",
+    "name": "冰雪刃",
+    "hero": "Warrior",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      724
+    ],
+    "nativeSymbols": "IceBlade"
+  },
+  {
+    "key": "BloodBlade",
+    "name": "血腥屠刀",
+    "hero": "Warrior",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      795
+    ],
+    "nativeSymbols": "BloodButcherer"
+  },
+  {
+    "key": "GrassBlade",
+    "name": "草剑",
+    "hero": "Warrior",
+    "stage": 1,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      190
+    ],
+    "nativeSymbols": "BladeofGrass"
+  },
+  {
+    "key": "VolcanoBlade",
+    "name": "火山",
+    "hero": "Warrior",
+    "stage": 1,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      121
+    ],
+    "nativeSymbols": "FieryGreatsword"
+  },
+  {
+    "key": "NightBlade",
+    "name": "永夜刃",
+    "hero": "Warrior",
+    "stage": 1,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      273
+    ],
+    "nativeSymbols": "NightsEdge"
+  },
+  {
+    "key": "ShadowKnife",
+    "name": "暗影焰刀",
+    "hero": "Warrior",
+    "stage": 2,
+    "unlock": 0,
+    "rarity": "罕见",
+    "items": [
+      3054
+    ],
+    "nativeSymbols": "ShadowFlameKnife"
+  },
+  {
+    "key": "AdamantiteBlade",
+    "name": "精金剑",
+    "hero": "Warrior",
+    "stage": 2,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      482
+    ],
+    "nativeSymbols": "AdamantiteSword"
+  },
+  {
+    "key": "IceSickleGear",
+    "name": "冰雪镰刀",
+    "hero": "Warrior",
+    "stage": 2,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      1306
+    ],
+    "nativeSymbols": "IceSickle"
+  },
+  {
+    "key": "FrostbrandGear",
+    "name": "冰雪剑",
+    "hero": "Warrior",
+    "stage": 2,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      676
+    ],
+    "nativeSymbols": "Frostbrand"
+  },
+  {
+    "key": "FlyingKnifeGear",
+    "name": "飞刀",
+    "hero": "Warrior",
+    "stage": 2,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      3030
+    ],
+    "nativeSymbols": "FlyingKnife"
+  },
+  {
+    "key": "FetidGear",
+    "name": "臭虎爪",
+    "hero": "Warrior",
+    "stage": 2,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      3013
+    ],
+    "nativeSymbols": "FetidBaghnakhs"
+  },
+  {
+    "key": "ExcaliburGear",
+    "name": "断钢剑",
+    "hero": "Warrior",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      368
+    ],
+    "nativeSymbols": "Excalibur"
+  },
+  {
+    "key": "TrueNightGear",
+    "name": "原版永夜刃",
+    "hero": "Warrior",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "罕见",
+    "items": [
+      675
+    ],
+    "nativeSymbols": "TrueNightsEdge"
+  },
+  {
+    "key": "TerraBladeGear",
+    "name": "泰拉刃",
+    "hero": "Warrior",
+    "stage": 3,
+    "unlock": 1,
+    "rarity": "稀有",
+    "items": [
+      757
+    ],
+    "nativeSymbols": "TerraBlade"
+  },
+  {
+    "key": "PaladinHammerGear",
+    "name": "圣骑士锤",
+    "hero": "Warrior",
+    "stage": 3,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      1513
+    ],
+    "nativeSymbols": "PaladinsHammer"
+  },
+  {
+    "key": "InfluxGear",
+    "name": "波涌之刃",
+    "hero": "Warrior",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "罕见",
+    "items": [
+      2880
+    ],
+    "nativeSymbols": "InfluxWaver"
+  },
+  {
+    "key": "SolarEruptionGear",
+    "name": "日耀喷发剑",
+    "hero": "Warrior",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      3473
+    ],
+    "nativeSymbols": "SolarEruption"
+  },
+  {
+    "key": "SilverBow",
+    "name": "银弓",
+    "hero": "Ranger",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      3510
+    ],
+    "nativeSymbols": "SilverBow"
+  },
+  {
+    "key": "FlintlockGear",
+    "name": "燧发枪",
+    "hero": "Ranger",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      95
+    ],
+    "nativeSymbols": "FlintlockPistol"
+  },
+  {
+    "key": "MusketGear",
+    "name": "火枪",
+    "hero": "Ranger",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      96
+    ],
+    "nativeSymbols": "Musket"
+  },
+  {
+    "key": "MiniSharkGear",
+    "name": "迷你鲨",
+    "hero": "Ranger",
+    "stage": 1,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      98
+    ],
+    "nativeSymbols": "Minishark"
+  },
+  {
+    "key": "BeesKneesGear",
+    "name": "蜂膝弓",
+    "hero": "Ranger",
+    "stage": 1,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      2888
+    ],
+    "nativeSymbols": "BeesKnees"
+  },
+  {
+    "key": "MoltenBowGear",
+    "name": "熔火之怒",
+    "hero": "Ranger",
+    "stage": 1,
+    "unlock": 2,
+    "rarity": "罕见",
+    "items": [
+      120
+    ],
+    "nativeSymbols": "MoltenFury"
+  },
+  {
+    "key": "PhoenixGear",
+    "name": "凤凰爆破枪",
+    "hero": "Ranger",
+    "stage": 1,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      219
+    ],
+    "nativeSymbols": "PhoenixBlaster"
+  },
+  {
+    "key": "ClockworkGear",
+    "name": "发条式突击步枪",
+    "hero": "Ranger",
+    "stage": 2,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      434
+    ],
+    "nativeSymbols": "ClockworkAssaultRifle"
+  },
+  {
+    "key": "AdamantiteRepeaterGear",
+    "name": "精金连弩",
+    "hero": "Ranger",
+    "stage": 2,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      481
+    ],
+    "nativeSymbols": "AdamantiteRepeater"
+  },
+  {
+    "key": "IceBowGear",
+    "name": "冰雪弓",
+    "hero": "Ranger",
+    "stage": 2,
+    "unlock": 0,
+    "rarity": "罕见",
+    "items": [
+      725
+    ],
+    "nativeSymbols": "IceBow"
+  },
+  {
+    "key": "OnyxGear",
+    "name": "玛瑙爆破枪",
+    "hero": "Ranger",
+    "stage": 2,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      3788
+    ],
+    "nativeSymbols": "OnyxBlaster"
+  },
+  {
+    "key": "DaedalusGear",
+    "name": "代达罗斯风暴弓",
+    "hero": "Ranger",
+    "stage": 2,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      3029
+    ],
+    "nativeSymbols": "DaedalusStormbow"
+  },
+  {
+    "key": "MegaSharkGear",
+    "name": "巨兽鲨",
+    "hero": "Ranger",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      533
+    ],
+    "nativeSymbols": "Megashark"
+  },
+  {
+    "key": "ChloroBowGear",
+    "name": "叶绿连弩",
+    "hero": "Ranger",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "罕见",
+    "items": [
+      1229
+    ],
+    "nativeSymbols": "ChlorophyteShotbow"
+  },
+  {
+    "key": "TacticalGear",
+    "name": "战术霰弹枪",
+    "hero": "Ranger",
+    "stage": 3,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      679
+    ],
+    "nativeSymbols": "TacticalShotgun"
+  },
+  {
+    "key": "TsunamiGear",
+    "name": "海啸",
+    "hero": "Ranger",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      2624
+    ],
+    "nativeSymbols": "Tsunami"
+  },
+  {
+    "key": "XenoGear",
+    "name": "外星霰弹枪",
+    "hero": "Ranger",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "罕见",
+    "items": [
+      2797
+    ],
+    "nativeSymbols": "Xenopopper"
+  },
+  {
+    "key": "VortexGear",
+    "name": "星旋机枪",
+    "hero": "Ranger",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      3475
+    ],
+    "nativeSymbols": "VortexBeater"
+  },
+  {
+    "key": "RubyStaff",
+    "name": "红玉法杖",
+    "hero": "Mage",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      743
+    ],
+    "nativeSymbols": "RubyStaff"
+  },
+  {
+    "key": "WaterBoltGear",
+    "name": "水矢",
+    "hero": "Mage",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "罕见",
+    "items": [
+      165
+    ],
+    "nativeSymbols": "WaterBolt"
+  },
+  {
+    "key": "SpaceGunGear",
+    "name": "太空枪",
+    "hero": "Mage",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      127
+    ],
+    "nativeSymbols": "SpaceGun"
+  },
+  {
+    "key": "BeeGunGear",
+    "name": "蜜蜂枪",
+    "hero": "Mage",
+    "stage": 1,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      1121
+    ],
+    "nativeSymbols": "BeeGun"
+  },
+  {
+    "key": "DemonScytheGear",
+    "name": "恶魔锄刀",
+    "hero": "Mage",
+    "stage": 1,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      272
+    ],
+    "nativeSymbols": "DemonScythe"
+  },
+  {
+    "key": "FlamelashGear",
+    "name": "火之花法杖",
+    "hero": "Mage",
+    "stage": 1,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      218
+    ],
+    "nativeSymbols": "Flamelash"
+  },
+  {
+    "key": "CrystalSerpentGear",
+    "name": "水晶蛇",
+    "hero": "Mage",
+    "stage": 2,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      3209
+    ],
+    "nativeSymbols": "CrystalSerpent"
+  },
+  {
+    "key": "CrystalStormGear",
+    "name": "水晶风暴",
+    "hero": "Mage",
+    "stage": 2,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      518
+    ],
+    "nativeSymbols": "CrystalStorm"
+  },
+  {
+    "key": "GoldenShowerGear",
+    "name": "黄金雨",
+    "hero": "Mage",
+    "stage": 2,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      1336
+    ],
+    "nativeSymbols": "GoldenShower"
+  },
+  {
+    "key": "SkyFractureGear",
+    "name": "裂天剑",
+    "hero": "Mage",
+    "stage": 2,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      3787
+    ],
+    "nativeSymbols": "SkyFracture"
+  },
+  {
+    "key": "MeteorStaffGear",
+    "name": "流星法杖",
+    "hero": "Mage",
+    "stage": 2,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      2750
+    ],
+    "nativeSymbols": "MeteorStaff"
+  },
+  {
+    "key": "RainbowRodGear",
+    "name": "彩虹魔杖",
+    "hero": "Mage",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      495
+    ],
+    "nativeSymbols": "RainbowRod"
+  },
+  {
+    "key": "MagicalHarpGear",
+    "name": "魔法竖琴",
+    "hero": "Mage",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      494
+    ],
+    "nativeSymbols": "MagicalHarp"
+  },
+  {
+    "key": "TomeWisdomGear",
+    "name": "无限智慧巨著",
+    "hero": "Mage",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "罕见",
+    "items": [
+      3852
+    ],
+    "nativeSymbols": "BookStaff"
+  },
+  {
+    "key": "MagnetSphereGear",
+    "name": "磁球",
+    "hero": "Mage",
+    "stage": 3,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      1266
+    ],
+    "nativeSymbols": "MagnetSphere"
+  },
+  {
+    "key": "SpectreStaffGear",
+    "name": "幽魂法杖",
+    "hero": "Mage",
+    "stage": 3,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      1446
+    ],
+    "nativeSymbols": "SpectreStaff"
+  },
+  {
+    "key": "TyphoonGear",
+    "name": "利刃台风",
+    "hero": "Mage",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      2622
+    ],
+    "nativeSymbols": "RazorbladeTyphoon"
+  },
+  {
+    "key": "LaserGear",
+    "name": "激光机枪",
+    "hero": "Mage",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "罕见",
+    "items": [
+      2795
+    ],
+    "nativeSymbols": "LaserMachinegun"
+  },
+  {
+    "key": "NebulaBlazeGear",
+    "name": "星云烈焰",
+    "hero": "Mage",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      3542
+    ],
+    "nativeSymbols": "NebulaBlaze"
+  },
+  {
+    "key": "LeatherWhip",
+    "name": "皮鞭",
+    "hero": "Summoner",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      4672
+    ],
+    "nativeSymbols": "BlandWhip"
+  },
+  {
+    "key": "FlinxStaffGear",
+    "name": "小雪怪法杖",
+    "hero": "Summoner",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      5069
+    ],
+    "nativeSymbols": "FlinxStaff"
+  },
+  {
+    "key": "FinchStaffGear",
+    "name": "雀杖",
+    "hero": "Summoner",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      4281
+    ],
+    "nativeSymbols": "BabyBirdStaff"
+  },
+  {
+    "key": "AbigailStaffGear",
+    "name": "阿比盖尔的花",
+    "hero": "Summoner",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      5114
+    ],
+    "nativeSymbols": "AbigailsFlower"
+  },
+  {
+    "key": "SnapthornGear",
+    "name": "荆鞭",
+    "hero": "Summoner",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "罕见",
+    "items": [
+      4913
+    ],
+    "nativeSymbols": "ThornWhip"
+  },
+  {
+    "key": "HornetStaffGear",
+    "name": "黄蜂法杖",
+    "hero": "Summoner",
+    "stage": 1,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      2364
+    ],
+    "nativeSymbols": "HornetStaff"
+  },
+  {
+    "key": "SpinalTapGear",
+    "name": "脊柱骨鞭",
+    "hero": "Summoner",
+    "stage": 1,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      5074
+    ],
+    "nativeSymbols": "BoneWhip"
+  },
+  {
+    "key": "ImpStaffGear",
+    "name": "小鬼法杖",
+    "hero": "Summoner",
+    "stage": 1,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      2365
+    ],
+    "nativeSymbols": "ImpStaff"
+  },
+  {
+    "key": "SpiderStaffGear",
+    "name": "蜘蛛法杖",
+    "hero": "Summoner",
+    "stage": 2,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      2551
+    ],
+    "nativeSymbols": "SpiderStaff"
+  },
+  {
+    "key": "FirecrackerGear",
+    "name": "鞭炮",
+    "hero": "Summoner",
+    "stage": 2,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      4912
+    ],
+    "nativeSymbols": "FireWhip"
+  },
+  {
+    "key": "CoolWhipGear",
+    "name": "冷鞭",
+    "hero": "Summoner",
+    "stage": 2,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      4911
+    ],
+    "nativeSymbols": "CoolWhip"
+  },
+  {
+    "key": "BladeStaffGear",
+    "name": "刃杖",
+    "hero": "Summoner",
+    "stage": 2,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      4758
+    ],
+    "nativeSymbols": "Smolstar"
+  },
+  {
+    "key": "SanguineStaffGear",
+    "name": "血红法杖",
+    "hero": "Summoner",
+    "stage": 2,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      4269
+    ],
+    "nativeSymbols": "SanguineStaff"
+  },
+  {
+    "key": "DurendalGear",
+    "name": "迪朗达尔",
+    "hero": "Summoner",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      4678
+    ],
+    "nativeSymbols": "SwordWhip"
+  },
+  {
+    "key": "OpticStaffGear",
+    "name": "双子魔眼法杖",
+    "hero": "Summoner",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      2535
+    ],
+    "nativeSymbols": "OpticStaff"
+  },
+  {
+    "key": "DeadlySphereGear",
+    "name": "致命球法杖",
+    "hero": "Summoner",
+    "stage": 3,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      3249
+    ],
+    "nativeSymbols": "DeadlySphereStaff"
+  },
+  {
+    "key": "MorningStarGear",
+    "name": "晨星",
+    "hero": "Summoner",
+    "stage": 3,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      4679
+    ],
+    "nativeSymbols": "MaceWhip"
+  },
+  {
+    "key": "TempestStaffGear",
+    "name": "暴风雨法杖",
+    "hero": "Summoner",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      2621
+    ],
+    "nativeSymbols": "TempestStaff"
+  },
+  {
+    "key": "KaleidoscopeGear",
+    "name": "万花筒",
+    "hero": "Summoner",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      4914
+    ],
+    "nativeSymbols": "RainbowWhip"
+  },
+  {
+    "key": "DragonStaffGear",
+    "name": "星尘之龙法杖",
+    "hero": "Summoner",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      3531
+    ],
+    "nativeSymbols": "StardustDragonStaff"
+  },
+  {
+    "key": "BallistaRodGear",
+    "name": "弩车魔杖",
+    "hero": "Warrior",
+    "stage": 1,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      3824
+    ],
+    "nativeSymbols": "DD2BallistraTowerT1Popper"
+  },
+  {
+    "key": "BallistaCaneGear",
+    "name": "弩车手杖",
+    "hero": "Warrior",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "罕见",
+    "items": [
+      3825
+    ],
+    "nativeSymbols": "DD2BallistraTowerT2Popper"
+  },
+  {
+    "key": "BallistaStaffGear",
+    "name": "弩车法杖",
+    "hero": "Warrior",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      3826
+    ],
+    "nativeSymbols": "DD2BallistraTowerT3Popper"
+  },
+  {
+    "key": "ExplosiveRodGear",
+    "name": "爆炸机关魔杖",
+    "hero": "Ranger",
+    "stage": 1,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      3832
+    ],
+    "nativeSymbols": "DD2ExplosiveTrapT1Popper"
+  },
+  {
+    "key": "ExplosiveCaneGear",
+    "name": "爆炸机关手杖",
+    "hero": "Ranger",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "罕见",
+    "items": [
+      3833
+    ],
+    "nativeSymbols": "DD2ExplosiveTrapT2Popper"
+  },
+  {
+    "key": "ExplosiveStaffGear",
+    "name": "爆炸机关法杖",
+    "hero": "Ranger",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      3834
+    ],
+    "nativeSymbols": "DD2ExplosiveTrapT3Popper"
+  },
+  {
+    "key": "FlameburstRodGear",
+    "name": "烈焰爆破魔杖",
+    "hero": "Mage",
+    "stage": 1,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      3818
+    ],
+    "nativeSymbols": "DD2FlameburstTowerT1Popper"
+  },
+  {
+    "key": "FlameburstCaneGear",
+    "name": "烈焰爆破手杖",
+    "hero": "Mage",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "罕见",
+    "items": [
+      3819
+    ],
+    "nativeSymbols": "DD2FlameburstTowerT2Popper"
+  },
+  {
+    "key": "FlameburstStaffGear",
+    "name": "烈焰爆破法杖",
+    "hero": "Mage",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      3820
+    ],
+    "nativeSymbols": "DD2FlameburstTowerT3Popper"
+  },
+  {
+    "key": "LightningRodGear",
+    "name": "闪电光环魔杖",
+    "hero": "Summoner",
+    "stage": 1,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      3829
+    ],
+    "nativeSymbols": "DD2LightningAuraT1Popper"
+  },
+  {
+    "key": "LightningCaneGear",
+    "name": "闪电光环手杖",
+    "hero": "Summoner",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "罕见",
+    "items": [
+      3830
+    ],
+    "nativeSymbols": "DD2LightningAuraT2Popper"
+  },
+  {
+    "key": "LightningStaffGear",
+    "name": "闪电光环法杖",
+    "hero": "Summoner",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      3831
+    ],
+    "nativeSymbols": "DD2LightningAuraT3Popper"
+  },
+  {
+    "key": "WarriorIron",
+    "name": "铁盔甲",
+    "hero": "Warrior",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      90,
+      81,
+      77
+    ],
+    "nativeSymbols": "IronHelmet,IronChainmail,IronGreaves"
+  },
+  {
+    "key": "WarriorGold",
+    "name": "金盔甲",
+    "hero": "Warrior",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      92,
+      83,
+      79
+    ],
+    "nativeSymbols": "GoldHelmet,GoldChainmail,GoldGreaves"
+  },
+  {
+    "key": "WarriorShadow",
+    "name": "暗影盔甲",
+    "hero": "Warrior",
+    "stage": 1,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      102,
+      101,
+      100
+    ],
+    "nativeSymbols": "ShadowHelmet,ShadowScalemail,ShadowGreaves"
+  },
+  {
+    "key": "WarriorMolten",
+    "name": "熔岩盔甲",
+    "hero": "Warrior",
+    "stage": 1,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      231,
+      232,
+      233
+    ],
+    "nativeSymbols": "MoltenHelmet,MoltenBreastplate,MoltenGreaves"
+  },
+  {
+    "key": "RangerFossil",
+    "name": "化石盔甲",
+    "hero": "Ranger",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      3374,
+      3375,
+      3376
+    ],
+    "nativeSymbols": "FossilHelm,FossilShirt,FossilPants"
+  },
+  {
+    "key": "RangerGold",
+    "name": "金盔甲",
+    "hero": "Ranger",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      92,
+      83,
+      79
+    ],
+    "nativeSymbols": "GoldHelmet,GoldChainmail,GoldGreaves"
+  },
+  {
+    "key": "RangerNecro",
+    "name": "死灵盔甲",
+    "hero": "Ranger",
+    "stage": 1,
+    "unlock": 1,
+    "rarity": "稀有",
+    "items": [
+      151,
+      152,
+      153
+    ],
+    "nativeSymbols": "NecroHelmet,NecroBreastplate,NecroGreaves"
+  },
+  {
+    "key": "MageSilver",
+    "name": "银盔甲",
+    "hero": "Mage",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      91,
+      82,
+      78
+    ],
+    "nativeSymbols": "SilverHelmet,SilverChainmail,SilverGreaves"
+  },
+  {
+    "key": "MageJungle",
+    "name": "丛林盔甲",
+    "hero": "Mage",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "罕见",
+    "items": [
+      228,
+      229,
+      230
+    ],
+    "nativeSymbols": "JungleHat,JungleShirt,JunglePants"
+  },
+  {
+    "key": "MageMeteor",
+    "name": "陨石盔甲",
+    "hero": "Mage",
+    "stage": 1,
+    "unlock": 1,
+    "rarity": "稀有",
+    "items": [
+      123,
+      124,
+      125
+    ],
+    "nativeSymbols": "MeteorHelmet,MeteorSuit,MeteorLeggings"
+  },
+  {
+    "key": "SummonerFlinx",
+    "name": "小雪怪套装",
+    "hero": "Summoner",
+    "stage": 1,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      727,
+      5068,
+      729
+    ],
+    "nativeSymbols": "WoodHelmet,FlinxFurCoat,WoodGreaves"
+  },
+  {
+    "key": "SummonerBee",
+    "name": "蜜蜂盔甲",
+    "hero": "Summoner",
+    "stage": 1,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      2361,
+      2362,
+      2363
+    ],
+    "nativeSymbols": "BeeHeadgear,BeeBreastplate,BeeGreaves"
+  },
+  {
+    "key": "SummonerObsidian",
+    "name": "黑曜石盔甲",
+    "hero": "Summoner",
+    "stage": 1,
+    "unlock": 1,
+    "rarity": "稀有",
+    "items": [
+      3266,
+      3267,
+      3268
+    ],
+    "nativeSymbols": "ObsidianHelm,ObsidianShirt,ObsidianPants"
+  },
+  {
+    "key": "WarriorPalladium",
+    "name": "钯金盔甲·近战",
+    "hero": "Warrior",
+    "stage": 2,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      1205,
+      1208,
+      1209
+    ],
+    "nativeSymbols": "PalladiumMask,PalladiumBreastplate,PalladiumLeggings"
+  },
+  {
+    "key": "WarriorMythril",
+    "name": "秘银盔甲·近战",
+    "hero": "Warrior",
+    "stage": 2,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      377,
+      379,
+      380
+    ],
+    "nativeSymbols": "MythrilHelmet,MythrilChainmail,MythrilGreaves"
+  },
+  {
+    "key": "WarriorTitanium",
+    "name": "钛金盔甲·近战",
+    "hero": "Warrior",
+    "stage": 2,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      1215,
+      1218,
+      1219
+    ],
+    "nativeSymbols": "TitaniumMask,TitaniumBreastplate,TitaniumLeggings"
+  },
+  {
+    "key": "RangerPalladium",
+    "name": "钯金盔甲·远程",
+    "hero": "Ranger",
+    "stage": 2,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      1206,
+      1208,
+      1209
+    ],
+    "nativeSymbols": "PalladiumHelmet,PalladiumBreastplate,PalladiumLeggings"
+  },
+  {
+    "key": "RangerMythril",
+    "name": "秘银盔甲·远程",
+    "hero": "Ranger",
+    "stage": 2,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      378,
+      379,
+      380
+    ],
+    "nativeSymbols": "MythrilHat,MythrilChainmail,MythrilGreaves"
+  },
+  {
+    "key": "RangerTitanium",
+    "name": "钛金盔甲·远程",
+    "hero": "Ranger",
+    "stage": 2,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      1216,
+      1218,
+      1219
+    ],
+    "nativeSymbols": "TitaniumHelmet,TitaniumBreastplate,TitaniumLeggings"
+  },
+  {
+    "key": "MagePalladium",
+    "name": "钯金盔甲·魔法",
+    "hero": "Mage",
+    "stage": 2,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      1207,
+      1208,
+      1209
+    ],
+    "nativeSymbols": "PalladiumHeadgear,PalladiumBreastplate,PalladiumLeggings"
+  },
+  {
+    "key": "MageMythril",
+    "name": "秘银盔甲·魔法",
+    "hero": "Mage",
+    "stage": 2,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      376,
+      379,
+      380
+    ],
+    "nativeSymbols": "MythrilHood,MythrilChainmail,MythrilGreaves"
+  },
+  {
+    "key": "MageTitanium",
+    "name": "钛金盔甲·魔法",
+    "hero": "Mage",
+    "stage": 2,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      1217,
+      1218,
+      1219
+    ],
+    "nativeSymbols": "TitaniumHeadgear,TitaniumBreastplate,TitaniumLeggings"
+  },
+  {
+    "key": "SummonerSpider",
+    "name": "蜘蛛盔甲",
+    "hero": "Summoner",
+    "stage": 2,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      2370,
+      2371,
+      2372
+    ],
+    "nativeSymbols": "SpiderMask,SpiderBreastplate,SpiderGreaves"
+  },
+  {
+    "key": "SummonerForbidden",
+    "name": "禁戒盔甲",
+    "hero": "Summoner",
+    "stage": 2,
+    "unlock": 1,
+    "rarity": "稀有",
+    "items": [
+      3776,
+      3777,
+      3778
+    ],
+    "nativeSymbols": "AncientBattleArmorHat,AncientBattleArmorShirt,AncientBattleArmorPants"
+  },
+  {
+    "key": "WarriorHallowed",
+    "name": "神圣盔甲·近战",
+    "hero": "Warrior",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      559,
+      551,
+      552
+    ],
+    "nativeSymbols": "HallowedMask,HallowedPlateMail,HallowedGreaves"
+  },
+  {
+    "key": "WarriorTurtle",
+    "name": "海龟盔甲",
+    "hero": "Warrior",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "罕见",
+    "items": [
+      1316,
+      1317,
+      1318
+    ],
+    "nativeSymbols": "TurtleHelmet,TurtleScaleMail,TurtleLeggings"
+  },
+  {
+    "key": "WarriorBeetle",
+    "name": "甲虫盔甲·外壳",
+    "hero": "Warrior",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      2199,
+      2201,
+      2202
+    ],
+    "nativeSymbols": "BeetleHelmet,BeetleShell,BeetleLeggings"
+  },
+  {
+    "key": "RangerHallowed",
+    "name": "神圣盔甲·远程",
+    "hero": "Ranger",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      553,
+      551,
+      552
+    ],
+    "nativeSymbols": "HallowedHelmet,HallowedPlateMail,HallowedGreaves"
+  },
+  {
+    "key": "RangerShroomite",
+    "name": "蘑菇矿盔甲·子弹",
+    "hero": "Ranger",
+    "stage": 3,
+    "unlock": 1,
+    "rarity": "稀有",
+    "items": [
+      1547,
+      1549,
+      1550
+    ],
+    "nativeSymbols": "ShroomiteMask,ShroomiteBreastplate,ShroomiteLeggings"
+  },
+  {
+    "key": "RangerShroomiteBow",
+    "name": "蘑菇矿盔甲·箭矢",
+    "hero": "Ranger",
+    "stage": 3,
+    "unlock": 1,
+    "rarity": "稀有",
+    "items": [
+      1546,
+      1549,
+      1550
+    ],
+    "nativeSymbols": "ShroomiteHeadgear,ShroomiteBreastplate,ShroomiteLeggings"
+  },
+  {
+    "key": "MageHallowed",
+    "name": "神圣盔甲·魔法",
+    "hero": "Mage",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      558,
+      551,
+      552
+    ],
+    "nativeSymbols": "HallowedHeadgear,HallowedPlateMail,HallowedGreaves"
+  },
+  {
+    "key": "MageSpectre",
+    "name": "幽灵盔甲·面具",
+    "hero": "Mage",
+    "stage": 3,
+    "unlock": 1,
+    "rarity": "稀有",
+    "items": [
+      2189,
+      1504,
+      1505
+    ],
+    "nativeSymbols": "SpectreMask,SpectreRobe,SpectrePants"
+  },
+  {
+    "key": "SummonerHallowed",
+    "name": "神圣盔甲·召唤",
+    "hero": "Summoner",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "普通",
+    "items": [
+      4873,
+      551,
+      552
+    ],
+    "nativeSymbols": "HallowedHood,HallowedPlateMail,HallowedGreaves"
+  },
+  {
+    "key": "SummonerTiki",
+    "name": "提基盔甲",
+    "hero": "Summoner",
+    "stage": 3,
+    "unlock": 1,
+    "rarity": "罕见",
+    "items": [
+      1159,
+      1160,
+      1161
+    ],
+    "nativeSymbols": "TikiMask,TikiShirt,TikiPants"
+  },
+  {
+    "key": "SummonerSpooky",
+    "name": "阴森盔甲",
+    "hero": "Summoner",
+    "stage": 3,
+    "unlock": 1,
+    "rarity": "稀有",
+    "items": [
+      1832,
+      1833,
+      1834
+    ],
+    "nativeSymbols": "SpookyHelmet,SpookyBreastplate,SpookyLeggings"
+  },
+  {
+    "key": "WarriorSquire",
+    "name": "侍卫盔甲",
+    "hero": "Warrior",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "罕见",
+    "items": [
+      3800,
+      3801,
+      3802
+    ],
+    "nativeSymbols": "SquireGreatHelm,SquirePlating,SquireGreaves"
+  },
+  {
+    "key": "WarriorValhalla",
+    "name": "英灵殿骑士盔甲",
+    "hero": "Warrior",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      3871,
+      3872,
+      3873
+    ],
+    "nativeSymbols": "SquireAltHead,SquireAltShirt,SquireAltPants"
+  },
+  {
+    "key": "RangerHuntress",
+    "name": "女猎人盔甲",
+    "hero": "Ranger",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "罕见",
+    "items": [
+      3803,
+      3804,
+      3805
+    ],
+    "nativeSymbols": "HuntressWig,HuntressJerkin,HuntressPants"
+  },
+  {
+    "key": "RangerRedRiding",
+    "name": "红色骑术盔甲",
+    "hero": "Ranger",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      3877,
+      3878,
+      3879
+    ],
+    "nativeSymbols": "HuntressAltHead,HuntressAltShirt,HuntressAltPants"
+  },
+  {
+    "key": "MageApprentice",
+    "name": "学徒盔甲",
+    "hero": "Mage",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "罕见",
+    "items": [
+      3797,
+      3798,
+      3799
+    ],
+    "nativeSymbols": "ApprenticeHat,ApprenticeRobe,ApprenticeTrousers"
+  },
+  {
+    "key": "MageDarkArtist",
+    "name": "暗黑艺术家盔甲",
+    "hero": "Mage",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      3874,
+      3875,
+      3876
+    ],
+    "nativeSymbols": "ApprenticeAltHead,ApprenticeAltShirt,ApprenticeAltPants"
+  },
+  {
+    "key": "SummonerMonk",
+    "name": "武僧盔甲",
+    "hero": "Summoner",
+    "stage": 3,
+    "unlock": 0,
+    "rarity": "罕见",
+    "items": [
+      3806,
+      3807,
+      3808
+    ],
+    "nativeSymbols": "MonkBrows,MonkShirt,MonkPants"
+  },
+  {
+    "key": "SummonerShinobi",
+    "name": "渗透忍者盔甲",
+    "hero": "Summoner",
+    "stage": 3,
+    "unlock": 2,
+    "rarity": "稀有",
+    "items": [
+      3880,
+      3881,
+      3882
+    ],
+    "nativeSymbols": "MonkAltHead,MonkAltShirt,MonkAltPants"
+  }
+]

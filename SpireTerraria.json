@@ -1,0 +1,17 @@
+{
+  "id": "SpireTerraria",
+  "name": "泰拉瑞亚 · 四职业远征",
+  "author": "Local prototype; native bridge by Hatsunetrump / TerrariaICEY",
+  "description": "四职业实时远征：分幕分稀有度装备池、三武器替换、单件无限锻造、原生商店与饰品宝箱。无塔防。开发版暂不保存远征。",
+  "version": "0.4.0",
+  "min_game_version": "0.111.0",
+  "has_pck": false,
+  "has_dll": true,
+  "affects_gameplay": true,
+  "dependencies": [
+    {
+      "id": "BaseLib",
+      "min_version": "3.4.7"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+# Local game programs, extracted artwork, dependencies and generated output
+.local/
+assets/
+runtime/
+saves/
+validation/
+native/generated/
+tools/decompiler/
+tools/*.nupkg
+*.dll
+*.exe
+*.pdb
+*.log
+*.request
+*.stop
+*.zip
+*.7z
+__pycache__/
+showcase/
