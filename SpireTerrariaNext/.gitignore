@@ -1,0 +1,14 @@
+.local/
+bin/
+obj/
+*.log
+*.dll
+*.exe
+*.pdb
+*.wld
+*.plr
+*.zip
+*.tmp
+pv_new_era/
+state/
+__pycache__/

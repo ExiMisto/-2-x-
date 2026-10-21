@@ -17,3 +17,16 @@ tools/*.nupkg
 *.7z
 __pycache__/
 showcase/
+pv_new_era/
+state/
+bin/
+obj/
+*.tmp
+*.wld
+*.plr
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.aep
+*.mscz
